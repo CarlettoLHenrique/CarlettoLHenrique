@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luiz Carletto
+# Luiz Henrique D. Carletto
 
 ### Automação Industrial · Programação de CLPs · Mecatrônica · Desenvolvimento de Software
 
