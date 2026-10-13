@@ -168,7 +168,7 @@ Busco unir a robustez do ambiente industrial à flexibilidade da tecnologia da i
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Carletto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-carletto-1b8555b0)
-[![E-mail](https://img.shields.io/badge/E--mail-carlettohenrique%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlettohenrique@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-carlettohenrique.svc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlettohenrique.svc@gmail.com)
 
 </div>
 
